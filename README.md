@@ -57,9 +57,11 @@ Key Metrics Visualized
 7. Average Shipping Days: 4 days
 ___________________________________________________________________________________________________________________________________________________________________
 
-Dash Board Screenshot
+Dash Board Snapshot
 
 https://github.com/jayasri2017/Power-Bi-Project--Super-Store-Sales-dashboard/blob/d72696bf3a5d467243591a440e01e084e9bff389/Super_Store_Sales_Dashboard_Screenshot.png
+
+https://github.com/jayasri2017/Power-Bi-Project--Super-Store-Sales-dashboard/blob/13331602c00efa00ddffcf321949c356b7256f91/Screenshot_2.png
 ___________________________________________________________________________________________________________________________________________________________________
 
 DAX-Formula used :

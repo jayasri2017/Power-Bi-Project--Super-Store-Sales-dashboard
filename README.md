@@ -59,6 +59,7 @@ ________________________________________________________________________________
 
 Dash Board Screenshot
 
+https://github.com/jayasri2017/Power-Bi-Project--Super-Store-Sales-dashboard/blob/d72696bf3a5d467243591a440e01e084e9bff389/Super_Store_Sales_Dashboard_Screenshot.png
 ___________________________________________________________________________________________________________________________________________________________________
 
 DAX-Formula used :
